@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "select2/select2":  "*"
+        "select2/select2":  "4.*"
     },
     "autoload": {
         "psr-4": { "x1\\assets\\": "" }
