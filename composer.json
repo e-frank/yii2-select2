@@ -1,0 +1,19 @@
+{
+    "name":        "e-frank/yii2-select2",
+    "description": "AssetBundle for select2",
+    "keywords":    ["yii2", "javascript", "select2"],
+    "type":        "yii2-extension",
+    "license":     "BSD-3-Clause",
+    "authors": [
+        {
+            "name":     "Elmar Frank",
+            "homepage": "http://yii.efrank.at/select2"
+        }
+    ],
+    "require": {
+        "select2/select2":  "*"
+    },
+    "autoload": {
+        "psr-4": { "x1\\assets\\": "" }
+    }
+}
