@@ -7,13 +7,13 @@
     "authors": [
         {
             "name":     "Elmar Frank",
-            "homepage": "http://yii.efrank.at/select2"
+            "homepage": "http://yii.efrank.at/extensions/select2"
         }
     ],
     "require": {
         "select2/select2":  "4.*"
     },
     "autoload": {
-        "psr-4": { "x1\\assets\\": "" }
+        "psr-4": { "x1\\assets\\select2\\": "" }
     }
 }

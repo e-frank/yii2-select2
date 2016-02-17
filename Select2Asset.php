@@ -1,5 +1,5 @@
 <?
-namespace x1\assets;
+namespace x1\assets\select2;
 
 class Select2Asset extends \yii\web\AssetBundle
 {
