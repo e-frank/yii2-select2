@@ -1,4 +1,4 @@
-<?
+<?php
 namespace x1\assets\select2;
 
 class Select2Asset extends \yii\web\AssetBundle
@@ -14,7 +14,7 @@ class Select2Asset extends \yii\web\AssetBundle
 	];
 
 	public $depends = [
-        'yii\bootstrap\BootstrapAsset',
+		'yii\bootstrap\BootstrapAsset',
 	];
 }
 ?>
