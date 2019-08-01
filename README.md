@@ -11,5 +11,5 @@ Usage
 
 
 ```php
-\x1\assets\Select2Asset::register($this);
+\x1\assets\select2\Select2Asset::register($this);
 ```
