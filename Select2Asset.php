@@ -22,6 +22,7 @@ class Select2Asset extends \yii\web\AssetBundle
 
 	public $publishOptions = [
 		'only' => [
+			'css/select2.min.css',
 			'js/select2.min.js',
 		],
 	];
